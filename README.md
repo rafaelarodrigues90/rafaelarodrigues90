@@ -1,5 +1,7 @@
 # Rafaela Rodrigues
 
+✨ Faço cagada no meu github para aprender a fazer bonito na sua aplicação. ✨
+
 <!--
 **rafaelarodrigues90/rafaelarodrigues90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
