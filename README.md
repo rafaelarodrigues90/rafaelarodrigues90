@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelarodrigues90&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelarodrigues90&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelarodrigues90&theme=tokyonight&layout=compact" />
+</a>
