@@ -14,6 +14,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 16 mins    █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
