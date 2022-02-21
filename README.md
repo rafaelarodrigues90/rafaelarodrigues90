@@ -14,8 +14,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        31 mins         ██████████████░░░░░░░░░░░   56.66 % 
-Bash         18 mins         ████████▒░░░░░░░░░░░░░░░░   33.32 % 
-JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
