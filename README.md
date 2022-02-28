@@ -13,7 +13,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelarodrigues90&show_icons=true&theme=tokyonight&locale=en" alt="rafaelarodrigues90" /></p>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
